@@ -1,0 +1,14 @@
+D:\Projetos C#\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.exe
+D:\Projetos C#\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+D:\Projetos C#\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+D:\Projetos C#\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.dll
+D:\Projetos C#\NewTalents\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.dll
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+D:\Projetos C#\NewTalents\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
